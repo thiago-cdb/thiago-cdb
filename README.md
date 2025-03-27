@@ -1,6 +1,6 @@
 <div>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=false&width=700&height=100&lines=Hello%2C+Everyone+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%93%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=100&size=40&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=false&width=700&height=100&lines=Hello%2C+Everyone+%F0%9F%91%8B;Welcome+to+my+profile+😉)](https://git.io/typing-svg)
   
 </div>
 <h1></h1>
@@ -20,8 +20,8 @@
 
 <div>
   <h3 align="left">🌟My stats</h3>
-  <img height="181cm" src="https://github-readme-stats.vercel.app/api?username=thiago-cdb&show_icons=true&theme=midnight-purple"> </img>
-  <img height="181cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-cdb&show_icons=true&layout=donut&theme=midnight-purple"> </img>
+  <img height="181cm" src="https://github-readme-stats.vercel.app/api?username=thiago-cdb&show_icons=true&theme=dark"> </img>
+  <img height="181cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-cdb&show_icons=true&layout=donut&theme=dark"> </img>
 </div>
 
 
