@@ -7,13 +7,13 @@
 
 <div>
   <p>
- 🇧🇷My name is Thiago Cordeiro and i was born and live in Brazil, in Fortaleza-CE 
+ 🇧🇷My name is Thiago Cordeiro and i was born and live in Brazil, in Fortaleza-CE
   </p>
   <p>
-🎓I am also taking a technical course in IT at IFCE . 
+🎓I am also taking a technical course in IT at IFCE, but I'm also studying independently
   </p>
   <p>
- 📚This profile is meant to showcase my projects and learnings over time .
+ 📚This profile is meant to showcase my projects and learnings over time
   </p>
 </div>
 <h1></h1>
