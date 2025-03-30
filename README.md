@@ -20,9 +20,9 @@
 
 <div>
   <h3 align="left">🌟My stats</h3>
-  <img height="181cm" src="https://github-readme-stats.vercel.app/api?username=thiago-cdb&show_icons=true&theme=react" /> 
-  <img height="181cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-cdb&show_icons=true&layout=compact&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-cdb&theme=react" />
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=thiago-cdb&show_icons=true&theme=react" /> 
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-cdb&show_icons=true&layout=compact&theme=react" />
+  <img width ='700cm' src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-cdb&theme=react" />
 </div>
 
 
