@@ -1,6 +1,6 @@
 <div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=60&duration=3500&pause=1000&color=F7F7F7&width=435&height=100&lines=Hello%2C+Everyone+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+profile+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=60&duration=3500&pause=1000&color=F7F7F7&width=600&height=110&lines=Hello%2C+Everyone+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+profile+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 ### 🇧🇷 My name is Thiago Cordeiro and I was born and live in Brazil, in Fortaleza-CE
 ### 🎓 I am also taking a technical course in IT at IFCE, but I'm also studying independently
